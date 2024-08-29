@@ -61,8 +61,8 @@ Based on the numerical results, the skilled players can do mor pushups and have 
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-
+My hypothesis is that the skill group is much better than the line group when it comes to pushups. With all the data that is shown it shows the skill players are more advanced.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+There is no relationship that was found between the skill players and the position players.
